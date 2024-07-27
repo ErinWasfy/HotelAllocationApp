@@ -1,6 +1,7 @@
 --Hotel Room Allocation Task Documentation
 Java Version used :17 (jdk-17)
 Default local server port:8080
+Here are the steps taken one by one to implement the task accordingly as follows below:
 
 a) An entity package is created that includes request and response classes as these classes are used in the API post endpoint so as
 to send request(CreateHotelAllocationDTO) and receive the result (HotelOccupancyDTO);
